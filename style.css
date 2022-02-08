@@ -1,0 +1,65 @@
+/*task4*/
+
+header {
+    background-color: #61caff;
+}
+
+main {
+    padding-bottom: 20px;
+}
+
+nav {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+nav a {
+    background-color: #4dff58;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+nav a:hover {
+    background-color: #38d142;
+}
+
+#siteName {
+    font-size: 3rem;
+}
+
+.item13 p {
+    margin: 0 0 0 0;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+#sp {
+    padding: 20px 0 20px 0;
+}
+
+#logo {
+    max-width: 85px;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr:nth-child(odd) {
+    background-color: #FFED80;
+}
+
+table td {
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+}
+
+footer {
+    height: 85px;
+    background-color: #61caff;
+}
